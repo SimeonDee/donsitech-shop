@@ -1,0 +1,3 @@
+// Working on Payments Model
+ -  Planning on connecting to Paystack Payment API for
+    Payments after products oders
